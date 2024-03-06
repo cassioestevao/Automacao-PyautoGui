@@ -1,4 +1,5 @@
-<img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python" width="200"/>
+![PyAutoGUI](https://pyautogui.readthedocs.io/en/latest/_images/PyAutoGUI_logo.png)
+
 
 # Automatização de Tarefas com PyAutoGUI
 
