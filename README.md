@@ -1,5 +1,6 @@
-![PyAutoGUI](https://pyautogui.readthedocs.io/en/latest/_images/PyAutoGUI_logo.png)
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="100">
+</div>
 
 # Automatização de Tarefas com PyAutoGUI
 
