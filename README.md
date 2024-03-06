@@ -1,3 +1,5 @@
+![Python](https://www.python.org/static/community_logos/python-logo.png)
+
 # Automatização de Tarefas com PyAutoGUI
 
 Este repositório contém scripts Python desenvolvidos para automatizar tarefas repetitivas do dia a dia. O PyAutoGUI é utilizado para simular interações com o teclado e o mouse, permitindo a automação de processos em diversas aplicações.
