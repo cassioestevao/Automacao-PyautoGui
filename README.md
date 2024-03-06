@@ -1,4 +1,4 @@
-![Python](https://www.python.org/static/community_logos/python-logo.png)
+<img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python" width="200"/>
 
 # Automatização de Tarefas com PyAutoGUI
 
